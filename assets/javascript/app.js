@@ -2,7 +2,7 @@
 
 //trash holds the initial buttons for the web page.
 var trash = ["trash","mullets","leopard print","twinky",
-"trailer park","john waters", "pink flamingos", "honey boo boo"];
+"trailer park","john waters", "pink flamingos"];
 
 //the thing that gets plugged into url
 var query;
