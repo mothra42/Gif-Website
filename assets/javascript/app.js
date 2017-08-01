@@ -33,7 +33,7 @@ function populate(arr)
 //makes call to ajax to retrieve gif data. 
 function retrieveData(search,button)
 {
-	var queryUrl = "http://api.giphy.com/v1/gifs/search?q=" +
+	var queryUrl = "https://api.giphy.com/v1/gifs/search?q=" +
         search + "&api_key=0387a3f4742c418897ee71e22d5f6a8c&limit=10&rating=pg-13";
 
     //ajax call
