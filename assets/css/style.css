@@ -1,0 +1,25 @@
+body {
+	background-image: url(../images/Trash.jpg);
+	background-size: cover;
+	font-family: 'Chewy', cursive;
+}
+
+.item {
+	position: relative;
+	float: left;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+p {
+	color: red;
+}
+.form-group {
+	float: left;
+}
+#submitBtn {
+	margin-top: 5px;
+}
+
+.gifBtn {
+}
